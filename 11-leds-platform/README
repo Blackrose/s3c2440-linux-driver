@@ -1,0 +1,3 @@
+write a leds driver for micro2440.
+
+use platform_device and platform_driver

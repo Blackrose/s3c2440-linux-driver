@@ -1,0 +1,7 @@
+call some function from another module
+
+one file:
+EXPORT_SYMBOL(funa);
+
+another file:
+extern void funa(void);

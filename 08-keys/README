@@ -1,0 +1,2 @@
+use polling method to get key value.
+Userspace application must be always call read() system call.

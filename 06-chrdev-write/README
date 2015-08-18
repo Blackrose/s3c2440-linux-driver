@@ -1,0 +1,4 @@
+auto create device node 
+
+class_create() : create class directory under /sys/class
+device_create() : create device node under /dev

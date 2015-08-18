@@ -1,0 +1,6 @@
+Use workqueue type process interrupt half of bottom.
+
+linux/workqueue.h
+
+INIT_WORK(struct work_queue *work, void(*func)(void*));
+schedule_work(struct work_queue *work);

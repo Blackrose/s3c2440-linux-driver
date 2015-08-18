@@ -1,0 +1,1 @@
+cmd_/home/blackrose/micro2440/driver/15day/s3c2440wdt.ko := arm-linux-ld -EL -r  -T /home/blackrose/micro2440/linux-2.6.32.2/scripts/module-common.lds --build-id -o /home/blackrose/micro2440/driver/15day/s3c2440wdt.ko /home/blackrose/micro2440/driver/15day/s3c2440wdt.o /home/blackrose/micro2440/driver/15day/s3c2440wdt.mod.o

@@ -1,0 +1,7 @@
+write a leds driver for micro2440.
+
+ioremap()
+uniomap()
+
+ioread32()
+iowrite32()
